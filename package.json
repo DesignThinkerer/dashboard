@@ -1,6 +1,12 @@
 {
-    "scripts": {
-        "build": "vite build",
-        "dev": "vite"
-    }
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "name": "vanilla",
+  "description": "[Edit in Codeflow ⚡️](https://stackblitz.com/~/github.com/DesignThinkerer/dashboard)",
+  "version": "1.0.0",
+  "main": "script.js",
+  "author": "",
+  "license": "ISC"
 }
