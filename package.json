@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "build": "vite build",
-    "dev": "vite"
+    "build": "npm build"
   },
   "name": "vanilla",
   "description": "[Edit in Codeflow ⚡️](https://stackblitz.com/~/github.com/DesignThinkerer/dashboard)",
