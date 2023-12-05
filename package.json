@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "npm build"
+    "build": "npm install -g light-server && light-server"
   },
   "name": "vanilla",
   "description": "[Edit in Codeflow ⚡️](https://stackblitz.com/~/github.com/DesignThinkerer/dashboard)",
